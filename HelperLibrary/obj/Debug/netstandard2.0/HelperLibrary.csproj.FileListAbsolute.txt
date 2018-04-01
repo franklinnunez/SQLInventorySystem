@@ -1,0 +1,10 @@
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\bin\Debug\netstandard2.0\HelperLibrary.deps.json
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\bin\Debug\netstandard2.0\HelperLibrary.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\bin\Debug\netstandard2.0\HelperLibrary.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.AssemblyInfoInputs.cache
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.AssemblyInfo.cs
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.dll
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\obj\Debug\netstandard2.0\HelperLibrary.pdb
+C:\Users\Samy\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\HelperLibrary\bin\Debug\netstandard2.0\Microsoft.VisualStudio.Configuration.dll
